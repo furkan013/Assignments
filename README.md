@@ -6,4 +6,5 @@
 [Graded assignment 2 (week 7)](https://github.com/furkan013/Assignments/blob/master/Graded_assignment_2.ipynb)
 [Exam R](https://github.com/furkan013/Assignments/blob/master/Exam_student.ipynb)
 [Exam Python](https://github.com/furkan013/Assignments/blob/master/exam_june_7_2018%20(2).ipynb)
-[Exam_sep_21]()
+[Exam_sep_21_R]()
+[Exam_sep_21_python]()
